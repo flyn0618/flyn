@@ -1,4 +1,6 @@
 # Shopee
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-KEYWORD,shopee
 #USER-AGENT,InstantVideo.US*
 #USER-AGENT,Prime%20Video*
 #DOMAIN, atv-ps.amazon.com
@@ -9,5 +11,4 @@
 #DOMAIN-SUFFIX,amazonaws.com
 #DOMAIN-SUFFIX,amazonvideo.com
 #DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX, shopee.tw
-DOMAIN-KEYWORD, shopee
+
